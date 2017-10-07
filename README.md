@@ -3,7 +3,11 @@
 It looks like I can use either **markdown** or **HTML** to edit my stuff here. I don't konw everything I can do yet, but I'm getting there. This is really a place for me to _play_. 
 
 <h1>So this creates a header</h1>
+
 # And so does this
+
+If I wanted to put a picture in here, I would do it like this:
+![Picture](https://github.com/Kuboosh21/Playground/IMG_2032.jpg)
 
 You can use the [editor on GitHub](https://github.com/Kuboosh21/Playground/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
