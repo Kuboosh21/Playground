@@ -11,7 +11,7 @@ If I wanted to put a picture in here, I would do it like this:
 ![Picture](https://github.com/Kuboosh21/Playground/blob/master/IMG_2032.jpg)
 
 (HTML)
-<img src="Playground/IMG_2032.jpg" alt="Skills">
+<img src="https://github.com/Kuboosh21/Playground/blob/master/IMG_2032.jpg" alt="Skills">
 
 You can use the [editor on GitHub](https://github.com/Kuboosh21/Playground/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
