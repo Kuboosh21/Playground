@@ -7,7 +7,7 @@ It looks like I can use either **markdown** or **HTML** to edit my stuff here. I
 # And so does this
 
 If I wanted to put a picture in here, I would do it like this:
-![Picture](https://github.com/Kuboosh21/Playground/IMG_2032.jpg)
+![Picture](Playground/IMG_2032.jpg)
 
 You can use the [editor on GitHub](https://github.com/Kuboosh21/Playground/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
